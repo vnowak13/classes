@@ -1,0 +1,29 @@
+.orangeBox{
+    background-color: rgb(238, 173, 53);
+    width: 100%;
+    height: 100px;
+    color: antiquewhite;
+    display: inline-block;
+    padding: 50px;
+    border: 1px solid red;
+    margin: 50px;
+    font-size: 50px;
+    font-family: 'Protest Revolution', sans-serif;
+    /* text-aglign: center; */
+
+}
+
+.paraDecor{
+    background-color: cadetblue;
+    color: aliceblue;
+    font:bold;
+    width: 50%;
+    height: 100px;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid navy;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
